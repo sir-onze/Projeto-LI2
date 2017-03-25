@@ -4,7 +4,7 @@
 #include "estado.h"
 #include "parser.h"
 #include <time.h>
-
+//ola
 ESTADO init(){
 
 	ESTADO e = {{0}};
